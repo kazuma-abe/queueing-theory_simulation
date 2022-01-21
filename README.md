@@ -5,3 +5,5 @@
 
 ### 参考資料
 ・https://www.youtube.com/watch?v=eSNfC-HOl44
+
+・https://simpy.readthedocs.io/en/latest/topical_guides/resources.html
