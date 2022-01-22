@@ -5,7 +5,9 @@
 
 ・priority_2type_jobs: 2種類のジョブの優先付きシステム (M/M型)
 
-1. M/M/c
+・preemptive_2type_jobs: ２種類のジョブの割り込みシステム (M/M型)
+
+### 1. M/M/c
 
 ### 参考資料
 ・https://www.youtube.com/watch?v=eSNfC-HOl44
