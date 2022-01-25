@@ -19,6 +19,8 @@
 ### 1. M/M/c
 
 ### 参考資料
-・https://www.youtube.com/watch?v=eSNfC-HOl44
+- https://www.youtube.com/watch?v=eSNfC-HOl44
 
-・https://simpy.readthedocs.io/en/latest/topical_guides/resources.html
+- https://simpy.readthedocs.io/en/latest/topical_guides/resources.html
+
+- https://medium.com/swlh/simulating-a-parallel-queueing-system-with-simpy-6b7fcb6b1ca1
