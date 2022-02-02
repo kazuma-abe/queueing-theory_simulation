@@ -16,9 +16,14 @@
 
 ### 1. M/M/c
 
+
+### 2. 冗長化システム
+
 ### 参考資料
 - https://www.youtube.com/watch?v=eSNfC-HOl44
 
 - https://simpy.readthedocs.io/en/latest/topical_guides/resources.html
 
 - https://medium.com/swlh/simulating-a-parallel-queueing-system-with-simpy-6b7fcb6b1ca1
+
+- https://link.springer.com/article/10.1007/s11134-016-9485-y
