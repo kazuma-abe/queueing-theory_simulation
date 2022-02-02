@@ -18,6 +18,14 @@
 
 
 ### 2. 冗長化システム
+#### (a)
+
+#### (b)
+
+#### (c)
+
+![redundancy](https://user-images.githubusercontent.com/78849474/152199948-30e9cd91-7e6d-4de3-9487-99f09201dfcc.png)
+
 
 ### 参考資料
 - https://www.youtube.com/watch?v=eSNfC-HOl44
