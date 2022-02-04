@@ -20,9 +20,10 @@
 ### 2. 冗長化モデル
 #### (a) N型
 
-#### (b)
 
-#### (c)
+#### (b) W型
+
+#### (c) M型
 
 ![redundancy](https://user-images.githubusercontent.com/78849474/152199948-30e9cd91-7e6d-4de3-9487-99f09201dfcc.png)
 
@@ -34,4 +35,5 @@
 
 - https://medium.com/swlh/simulating-a-parallel-queueing-system-with-simpy-6b7fcb6b1ca1
 
-- https://link.springer.com/article/10.1007/s11134-016-9485-y
+- Mor Harchol-Balter, Open problems in queueing theory inspired by datacenter computing, 2021, Queueuing Systems
+https://link.springer.com/article/10.1007/s11134-016-9485-y
